@@ -5776,10 +5776,10 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/georgeurakhchin/Documents/masks-angular/src/polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! /Users/georgeurakhchin/Documents/masks-angular2/src/polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
 
 },[[1,"runtime"]]]);
-//# sourceMappingURL=polyfills.ad9fec4a9feef658bb6e.js.map
+//# sourceMappingURL=polyfills.js.map
