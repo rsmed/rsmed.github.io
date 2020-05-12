@@ -703,11 +703,11 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/georgeurakhchin/Documents/masks-angular2/src/styles.css */"./src/styles.css");
-__webpack_require__(/*! /Users/georgeurakhchin/Documents/masks-angular2/src/assets/vendor/bootstrap/css/bootstrap.min.css */"./src/assets/vendor/bootstrap/css/bootstrap.min.css");
-__webpack_require__(/*! /Users/georgeurakhchin/Documents/masks-angular2/src/assets/vendor/font-awesome/css/font-awesome.min.css */"./src/assets/vendor/font-awesome/css/font-awesome.min.css");
-__webpack_require__(/*! /Users/georgeurakhchin/Documents/masks-angular2/src/assets/vendor/magnific-popup/magnific-popup.css */"./src/assets/vendor/magnific-popup/magnific-popup.css");
-module.exports = __webpack_require__(/*! /Users/georgeurakhchin/Documents/masks-angular2/src/assets/css/creative.css */"./src/assets/css/creative.css");
+__webpack_require__(/*! /Users/georgeurakhchin/Documents/rsmed-angular/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /Users/georgeurakhchin/Documents/rsmed-angular/src/assets/vendor/bootstrap/css/bootstrap.min.css */"./src/assets/vendor/bootstrap/css/bootstrap.min.css");
+__webpack_require__(/*! /Users/georgeurakhchin/Documents/rsmed-angular/src/assets/vendor/font-awesome/css/font-awesome.min.css */"./src/assets/vendor/font-awesome/css/font-awesome.min.css");
+__webpack_require__(/*! /Users/georgeurakhchin/Documents/rsmed-angular/src/assets/vendor/magnific-popup/magnific-popup.css */"./src/assets/vendor/magnific-popup/magnific-popup.css");
+module.exports = __webpack_require__(/*! /Users/georgeurakhchin/Documents/rsmed-angular/src/assets/css/creative.css */"./src/assets/css/creative.css");
 
 
 /***/ })
