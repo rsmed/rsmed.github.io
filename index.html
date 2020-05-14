@@ -2,6 +2,19 @@
 <html lang="en">
 <head>
 
+  <!--404 error fix-->
+  <script>
+    (function(){
+      var redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      if (redirect && redirect != location.href) {
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
+
+
+
   <!--<base href="/">-->
 
   <!--prevent cache-->
@@ -15,6 +28,9 @@
   <meta name="author" content="">
 
   <title>rsmed.github.io</title>
+
+
+
 
 
   <!-- Custom fonts for this template -->
